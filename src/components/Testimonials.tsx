@@ -7,28 +7,28 @@ import Parallax3DEffect from './Parallax3DEffect';
 const testimonials = [
   {
     name: 'Carlos Méndez',
-    position: 'CEO, TechSolutions',
+    position: 'CEO',
     quote: 'La implementación de agentes de IA en nuestro servicio al cliente aumentó la satisfacción en un 45% y redujo los tiempos de respuesta en un 60%.',
     image: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     rating: 5
   },
   {
     name: 'Ana Sánchez',
-    position: 'CTO, Innovatech',
+    position: 'CTO',
     quote: 'El sistema de automatización que desarrollaron transformó completamente nuestros procesos internos, ahorrando más de 120 horas mensuales de trabajo manual.',
     image: 'https://images.pexels.com/photos/3771089/pexels-photo-3771089.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     rating: 5
   },
   {
     name: 'Javier Rodríguez',
-    position: 'Director de Operaciones, DataCorp',
+    position: 'Director de Operaciones',
     quote: 'Su consultoría en transformación digital nos ayudó a identificar áreas de mejora que ni siquiera sabíamos que existían. La inversión se recuperó en solo 6 meses.',
     image: 'https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     rating: 4
   },
   {
     name: 'Lucía Fernández',
-    position: 'Head of Data, GlobalTech',
+    position: 'Head of Data',
     quote: 'Las soluciones de análisis predictivo implementadas han sido clave para anticiparnos a tendencias del mercado y tomar decisiones estratégicas más acertadas.',
     image: 'https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     rating: 5
