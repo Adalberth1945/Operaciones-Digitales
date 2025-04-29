@@ -28,7 +28,7 @@ const testimonials = [
   },
   {
     name: 'Lucía Fernández',
-    position: 'Head of Data',
+    position: 'Head of Data.',
     quote: 'Las soluciones de análisis predictivo implementadas han sido clave para anticiparnos a tendencias del mercado y tomar decisiones estratégicas más acertadas.',
     image: 'https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     rating: 5
